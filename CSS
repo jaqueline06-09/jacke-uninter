@@ -1,1 +1,75 @@
+<body>
+<h1 style="text-align: center;color:white">Jaqueline Querubina de Souza</h1>
+
+
+ <p>Meu nome é Jaqueline Querubina de Souza.<br>
+ Tenho 39 anos.<br>Moro da cidade de Belo Horizonte Minas Gerais<br>Gostaria de ter mais conhecimento sobre Tecnologias
+ </p>
+ 
+   <ul>
+    <li>Gosto de acordar cedo aos domingos para caminhar na rua.</li>
+    <br>
+    <br>
+    <li>Gosto de cozinhar para meu filho.</li>
+    <br>
+    <br>
+    <br>
+    <li>Gosto de me sentir útil.</li>
+    <br>
+    <br>
+    <br>
+  </ul>
+ <img src="imagens/caminhada.jpg" alt="Caminhada" width="400"/img>
+  <a href="http://www.google.com">Link para pesquisa</a>
+ 
+   <br>
+<table border="1">
+    <caption><strong>Países que eu gostaria de visitar</strong></caption>
+    <tr>
+      <th>País</th>
+      <th>Imagem</th>
+    </tr>
+    <tr>
+      <td>China</td>
+      <td><img src="https://raw.githubusercontent.com/jaqueline06-09/jacke-uninter/main/china.jpg" alt="China" width="100"></td>
+    </tr>
+ <br>
+ <br>
+ <br>
+    <tr>
+      <td>Paraguai</td>
+      <td><img src="https://raw.githubusercontent.com/jaqueline06-09/jacke-uninter/main/paraguai.jpg" alt="Paraguai" width="100"></td>
+    </tr>
+ <br>
+ <br>
+ <br>
+    <tr>
+      <td>Estados Unidos</td>
+       <td><img src="https:/bestbuysimtravel.com/capital-dos-estados-unidos/raw.githubusercontent.com/jaqueline06-09/jacke-uninter/main/estados unidos.jpg" alt="Estados Unidos" width="100"></td>
+    </tr>
+
+ <style>
+        body {
+              background-color: rgb(211, 211, 211); /* Cor de fundo cinza claro */
+            font-family: Arial, sans-serif;
+            padding: 20px;
+                 body {
+        
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Exemplo W3Schools</title>
+<style>
+p {
+    font-size: 16px; /* Tamanho padrão */
+}
+.tamanho-grande {
+    font-size: 24px; /* Tamanho maior */
+}
+</style>
+</head>
+
+
 
