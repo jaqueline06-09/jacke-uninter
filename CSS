@@ -19,14 +19,16 @@
     <br>
     <br>
   </ul>
+ <style>
  .imagem{
-background:url("caminhada.jpg")
+background:url("caminhada")
 no-repeat;
 width:200px;
 height:200px;
 display:block;
 backgroud-size:contain;
 }
+ </style>
   <a href="http://www.google.com">Link para pesquisa</a>
  
    <br>
