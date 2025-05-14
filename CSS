@@ -19,16 +19,18 @@
     <br>
     <br>
   </ul>
- <style>
+
+<style>
  .imagem{
-background:url("caminhada")
-no-repeat;
+background:url("caminhada.jpg"")no-repeat;
 width:200px;
 height:200px;
 display:block;
-backgroud-size:contain;
+background-size:contain;
 }
  </style>
+<br>
+<br>
   <a href="http://www.google.com">Link para pesquisa</a>
  
    <br>
@@ -54,7 +56,7 @@ backgroud-size:contain;
  <br>
     <tr>
       <td>Estados Unidos</td>
-       <td><img src="https:/bestbuysimtravel.com/capital-dos-estados-unidos/raw.githubusercontent.com/jaqueline06-09/jacke-uninter/main/estados unidos.jpg" alt="Estados Unidos" width="100"></td>
+       <td><img src="https://raw.githubusercontent.com/jaqueline06-09/jacke-uninter/main/estados unidos.jpg" alt="Estados Unidos" width="100"></td>
     </tr>
 
  <style>
